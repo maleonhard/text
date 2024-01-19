@@ -1,0 +1,125 @@
+Regeln und Hinweise für Abschlussarbeiten
+3. März 2022
+Die Abschlussarbeit ist – bildlich gesprochen – der krönende Abschluss Ihres bisherigen Studiums.
+Das sollte sowohl inhaltlich als auch bei der formalen Gestaltung erkennbar sein.
+1 Struktur
+Achten Sie auf die Struktur der Arbeit. Die Arbeit muss übersichtlich und gut nach-
+vollziehbar sein!
+Die Struktur Ihrer Ausführungen entscheidet maßgeblich über die Verständlichkeit Ihrer Arbeit. Es
+kommt sowohl auf die Struktur der Gesamtarbeit in geeignete Kapitel an, als auch auf die Struktur
+im Kleinen (in Unterkapiteln, in Abschnitten und bei jedem einzelnen Gedanken).
+Logik und Struktur
+• Sehen Sie für die gesamte Arbeit und einzelne Abschnitte eine logisch Grundstruktur in
+der Form Situation, Komplikation, Kernfrage, Kernaussage/Antwort und Unterfütterung der
+Antwort (in hierarchischer Weise) vor. Eine gute Hilfe zum Thema Struktur ist das Buch The
+Pyramid Principle – Logic in Writing and Thinking von Barbara Minto.
+• Verwenden Sie idealerweise eine zweistufige Gliederung (also 1.1 usw.); auf keinen Fall eine
+vierstufige Gliederung (also 1.1.1.1). Achten Sie darauf, dass die Gliederungspunkte innerhalb
+einer Ebene zueinander passen.
+• Diskutieren Sie Daten und Ergebnisse am Ort der Entstehung, nicht erst zusammengefasst
+im letzten Abschnitt. Der Leser (Gutachter) möchte wissen, wie die Daten bewertet werden,
+bevor sie weiterverarbeitet werden.
+Tipp: Schreiben Sie die Kernaussage und die zugehörige Gliederung Ihrer Arbeit frühzeitig.
+Gewichtung der Anteile
+Die Wichtung zwischen Literaturauswertung und eigener Arbeit / Diskussion muss stimmen! Tipp:
+Literaturteil kurz fassen, er ist Grundlage für das Verständnis des Problems. Weitere, ins Detail
+gehende Aussagen aus der Literatur können in die Diskussion der eigenen Ergebnisse eingebaut
+werden. Literaturaussagen, die für die Bearbeitung des eigenen Themas nicht erforderlich sind,
+gehören nicht in die Arbeit (auch wenn man Zeit und Kraft für das Lesen investiert hat).
+Seite 2 Abschlussarbeiten
+2 Sprache
+• Schreiben Sie in klaren kurzen Sätzen. Die Verständlichkeit für den Leser sollte das entschei-
+dende Kriterium für die Wahl Ihres Satzbaus sein.
+• Verwenden Sie die Fachbegriffe (und verwenden Sie sie richtig).
+• Seien Sie präszise. Nennen Sie Zahlenangaben und ordnen Sie Größen sinnvoll ein. Schlecht:
+Die Stäbe sind ziemlich schwer. Besser: Die Stäbe wiegen zwischen 50 und 80 Kilogramm.
+Schlecht: Die Dichte des Werkstoffes ist groß. Besser: Die Dichte beträgt 8,9 g/cm3, knapp
+15% höher als bei Stahl.
+• Vermeiden Sie Füllwörter.
+• Vermeiden Sie Worte oder Satzkonstruktionen, die einen kausalen Zusammenhang suggerie-
+ren, der nicht existiert.
+3 Formales
+Layout etc.
+• Sparen Sie Papier und drucken Sie beidseitig. Das Layout sollte entsprechend für den beidsei-
+tigen Druck vorgesehen sein. Der innere Rand sollte breit genug sein, dass nach der Bindung
+die Arbeit gut lesbar ist. Für den äußeren Rand genügen 2 cm. Die Seitenzahl ist entweder
+in der Mitte oder am äußeren Rand.
+• Wählen Sie eine geeignete Schriftgröße. Für mich sind dies bei MS Office oder Open/Libre
+Office: Times New Roman 12pt oder Segoe UI 11pt oder Arial 10pt oder vergleichbar, Zei-
+lenabstand höchstens Faktor 1,2. Für LATEX nutzen Sie das Paket lmodern, Schriftgröße 11pt
+oder 12pt (z. B. Komascript Artikel oder Buch). Nehmen Sie in LATEX keine Veränderung des
+Zeilenabstandes im normalen Text vor.
+• Fügen Sie Diagramme hinreichend groß ein. Achten Sie auf eine gut lesbare und verständliche
+Beschriftung der Achsen. Achten Sie auf gute Lesbarkeit/Erkennbarkeit bei handschriftlichen
+Skizzen (bei konstruktiven Arbeiten prinzipiell in Maßen erlaubt).
+• Versehen Sie alle Tabellen und Abbildungen mit einer Beschriftung (einschließlich Nummer).
+Die Nummerierung kann entweder fortlaufend durch das gesamte Dokument erfolgen (1,2,3,...)
+oder kapitelweise (1.1,1.2,...). Jede Tabelle und jede Abbildung muss mindestens ein Mal im
+Text explizit erwähnt werden (unter Angabe der Nummer).
+• Zeigen Sie die für das Verständnis notwendigen Abbildungen und Tabellen im laufenden Text.
+Zusätzliche, ergänzende Bilder und Tabellen gehören in den Anhang.
+• Nummerieren Sie Formeln (entweder fortlaufend für das gesamte Dokument oder je Kapitel).
+• Achten Sie auf einen korrekten Satz der Größen. Formelzeichen werden typischerweise kursiv,
+Funktionen und Maßeinheiten gerade gesetzt, z. B.
+FS = FA sin(α) = 3,45 kN (1)
+• Zeigen Sie Herleitungen oder Quellenangaben für nicht selbstverständliche Dinge1. Legen Sie
+ein Abkürzungsverzeichnis an, wenn Sie nicht allgemein bekannte Abkürzungen verwenden
+(nicht DIN, VDI, etc.).
+1Was ist selbstverständlich? Alles das, was ein(e) durchschnittliche(r) Absolvent(in) der betreffenden Studienrich-
+tung aus dem Ärmel schütteln kann oder können sollte.
+Abschlussarbeiten Seite 3
+• Fügen Sie, sofern überhaupt notwendig, Abkürzungsverzeichnis, Formelverzeichnis, Abbil-
+dungsverzeichnis und Tabellenverzeichnis am Ende des Dokuments ein. Lediglich das Inhalts-
+verzeichnis sollte vor dem Hauptteil des Dokuments stehen.
+Kurzfassung, Vorwort
+Bitte stellen Sie an den Anfang Ihres Dokuments ein Vorwort bzw. eine Kurzfassung auf Deutsch
+und Englisch (je ca. 1 Seite). Das Vorwort enthält eine kurze Darstellung der Fragestellung und
+der wesentlichen Erkenntnisse der Arbeit. Nach dem Lesen des Vorworts sollte für den Leser oder
+die Leserin klar sein, was ihn/sie auf den folgenden Seiten erwartet. Das Vorwort kann bei Bedarf
+auch eine kurze Danksagung enthalten.
+Literaturverzeichnis, Quellenangaben
+• Geben Sie Quellenangaben an für alles, was weder Allgemeinwissen ist noch von Ihnen selbst
+erarbeitet wurde.
+• Geben Sie die Quellenangaben so an, dass die man die Inhalte wiederfinden kann (Buch:
+Autor, Titel, Verlag, Ausgabeort, Jahr, Seite; Zeitschriftenartikel: Autor, Titel des Beitrags,
+Zeitschrift, Jahrgang, Jahr, Seitenzahlen des Artikels, bei langen Artikeln zusätzlich die zi-
+tierte Seite; bei persönlichen Mitteilungen: Name, Firma; bei Internetquellen neben der url
+auch das Datum des letzten Besuchs2.
+Anhang
+• Quellcode selbst geschriebener Software
+• Anforderungslisten, Lastenhefte, etc.
+• Für das Verständnis des Textes nicht benötigte Tabellen, Bilder (die aber für das Nachvoll-
+ziehen der Ergebnisse bzw. deren Bewertung wichtig sind)
+• Analysevorschriften, Apparateabmessungen, Versuchsparameter, Messdaten
+Ein längerer Anhang, der beim Lesen der Arbeit nicht benötigt wird (aber vielleicht zur Fortsetzung
+der Arbeiten), muss nicht ausgedruckt werden sondern kann ausschließlich digital (als CD) beigelegt
+werden.
+4 Inhalt
+Allgemeines
+Im Rahmen der Abschlussarbeit wird meist ein Produkt entwickelt, sei es eine Maschine (einschließ-
+lich Mechanismen, Vorrichtungen, Getrieben, Robotern), ein Apparat oder auch eine Software oder
+ein Prozess (z. B. für die Instandhaltung). Bei der Produktentwicklung sind stets Grundzüge der
+Verifikation und Validierung zu berücksichtigen (wie beispielsweise von A. Engel in Verification,
+Validation and Testing of Engineered Systems, Wiley Series in Systems Engineering and Manage-
+ment beschrieben). In anderen Worten: Es muss klar werden, mit welchen Mitteln Sie die spätere
+Erfüllung der gestellten Aufgaben im Entwicklungsprozess durchgängig sicherstellen.
+2Bitte nicht nur die Startseite sondern die genaue url der Seite angeben. Bei wichtigen Quellen die betreffende Seite
+kopieren und auf CD beilegen.
+Seite 4 Abschlussarbeiten
+Konstruktive Arbeiten
+Neben dem ständig aktualisierten Standardwerk Pahl/Beitz Konstruktionslehre: Methoden und An-
+wendung erfolgreicher Produktentwicklung, Springer Vieweg (derzeitige Herausgeber: B. Bender und
+K. Gericke) ist unbedingt auch der Klassiker von Karlheinz Roth Konstruieren mit Konstruktions-
+katalogen: Band 1: Konstruktionslehre, Springer3 empfehlenswert. Die Verwendung von Konstruk-
+tionskatalogen kann für wenig erfahrene Konstrukteur:innen sehr hilfreich sein, insbesondere wenn
+die Randbedingungen in der Firma wenig Raum für Kreativprozesse im Team zulassen.
+Erläutern Sie in Ihren Darstellungen, wie die endgültige Konstruktion entstanden ist, z. B. welche
+kreativen Methoden eingesetzt wurden, auf welchen vorhandenen Lösungen aufgebaut wurde oder
+welche Konstruktionskataloge Eingang in die vorliegende Lösung gefunden haben.
+Führen Sie Berechnungen mit Python, SMath Studio, PTC Mathcad, Matlab oder einem anderen
+Tool für technische Berechnungen durch. Wenn Sie SMath Studio oder PTC Mathcad verwenden,
+können Sie die Berechnungen direkt als Dokumentation verwenden, da die Formeln gut lesbar sind.
+Wenn Sie Python benutzen, empfiehlt sich die Verwendung des Moduls pint, das die Verwendung
+von Einheiten zulässt. Ein Tabellenkalkulationsprogramm ist denkbar ungeeignet für die meisten
+technischen Berechnungen, vor allem aus der Qualitätssicherungsperspektive.
+3Seit 2012 ist der Nachdruck der 3. Auflage verfügbar.
